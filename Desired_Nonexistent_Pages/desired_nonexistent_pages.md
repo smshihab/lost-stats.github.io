@@ -20,7 +20,6 @@ If you create one of these pages, please remove it from this list.
 
 ## Model Estimation
 
-* Random Effects
 * Nonlinear Instrumental Variables Estimation
 * Differences in Differences
 * Propensity Score Matching
@@ -44,6 +43,7 @@ If you create one of these pages, please remove it from this list.
 * Ordered Probit
 * Ordered Logit
 * Nonlinear hypothesis tests
+* Hausman test
 
 ## Geo-Spatial
 
